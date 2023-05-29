@@ -33,6 +33,7 @@ const Sidebar = () => {
             <Link to="/checkout">Checkout</Link>
           </li>
         </ul>
+        <CartButtons />
       </aside>
     </SidebarContainer>
   );
